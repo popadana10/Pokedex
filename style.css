@@ -1,0 +1,19 @@
+body {
+    background-image: url('poke.jpeg');
+    color: black;
+    text-align: center;
+    padding: 250px;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  #container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  #container div {
+    background-color: white;
+    border-radius: 5px;
+    color: #333;
+    padding: 1rem;
+  }
