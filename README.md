@@ -1,6 +1,6 @@
-# PokeDex
+# PokéDex
 
-PokeDex is a web application that allows users to explore and discover Pokémon from the vast universe of Pokémon species. With PokeDex, users can browse through over 800 Pokémon, search for specific Pokémon by name, and mark their favorites for easy access.
+PokéDex is a web application that allows users to explore and discover Pokémon from the vast universe of Pokémon species. With PokeDex, users can browse through over 800 Pokémon, search for specific Pokémon by name, and mark their favorites for easy access.
 
 ## See project here
 (https://popadana10.github.io/pokedex/)https://popadana10.github.io/pokedex/
@@ -21,7 +21,7 @@ PokeDex is a web application that allows users to explore and discover Pokémon 
 
 ## Credits
 
-PokeDex utilizes data from the [PokeAPI](https://pokeapi.co/).
+PokéDex utilizes data from the [PokeAPI](https://pokeapi.co/).
 
 ## Get in Touch
 
